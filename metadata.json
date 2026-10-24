@@ -1,0 +1,6 @@
+{
+  "name": "AJ Auction",
+  "description": "Cricket League Auction Manager — an offline-first native Android tool for managing in-person player auctions, team budgets, live bidding, and squads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

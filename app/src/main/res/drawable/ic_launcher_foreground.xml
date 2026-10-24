@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sound block base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,76h56c1.6,0 3,1.4 3,3v3c0,1.6 -1.4,3 -3,3h-56c-1.6,0 -3,-1.4 -3,-3v-3c0,-1.6 1.4,-3 3,-3z" />
+    <path
+        android:fillColor="#FFD36A"
+        android:pathData="M24,84h60l-4,6h-52z" />
+
+    <!-- Gavel Head Top Piece -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,30l6,-6c1.4,-1.4 3.6,-1.4 5,0l8,8c1.4,1.4 1.4,3.6 0,5l-6,6c-1.4,1.4 -3.6,1.4 -5,0l-8,-8c-1.4,-1.4 -1.4,-3.6 0,-5z" />
+
+    <!-- Gavel Handle -->
+    <path
+        android:fillColor="#FFD36A"
+        android:pathData="M39,39l4,-4 25,25 -4,4z" />
+
+    <!-- Gavel Head Bottom / Striking face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,56l6,-6c1.4,-1.4 3.6,-1.4 5,0l8,8c1.4,1.4 1.4,3.6 0,5l-6,6c-1.4,1.4 -3.6,1.4 -5,0l-8,-8c-1.4,-1.4 -1.4,-3.6 0,-5z" />
+
+    <!-- Cricket Ball accent -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M78,35a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M81,32c1.5,1.5 2.5,3 2.5,5"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Motion sparks / impact lines -->
+    <path
+        android:fillColor="#FFD36A"
+        android:pathData="M23,48l8,3 -5,2zM28,40l7,6 -5,-1zM20,56l9,0 -7,3z" />
+</vector>
